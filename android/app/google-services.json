@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "613690251381",
+    "project_id": "pcdoor",
+    "storage_bucket": "pcdoor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613690251381:android:eb4dc8ef4d3cca5974403c",
+        "android_client_info": {
+          "package_name": "com.example.pcdoor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQUzQ4vCmZWig_-z3fQcxR2PJy1wtGNiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
